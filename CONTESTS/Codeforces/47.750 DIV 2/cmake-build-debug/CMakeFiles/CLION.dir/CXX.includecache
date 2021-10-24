@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/F1.cpp
+bits/stdc++.h
+/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/bits/stdc++.h
+

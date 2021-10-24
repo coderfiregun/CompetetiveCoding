@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CLION"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CLION">
+				<Option output="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/CLION.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 CLION"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CLION/fast">
+				<Option output="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/CLION.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 CLION/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/A. Luntik and Concerts.cpp">
+			<Option target="CLION"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/B. Luntik and Subsequences.cpp">
+			<Option target="CLION"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/C. Grandma Capa Knits a Scarf.cpp">
+			<Option target="CLION"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/D.cpp">
+			<Option target="CLION"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/F1.cpp">
+			<Option target="CLION"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/main.cpp">
+			<Option target="CLION"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dedic/OneDrive/Desktop/CLION/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
